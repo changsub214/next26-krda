@@ -23,7 +23,7 @@
 | 연번 | 서비스 | 출시 상태 | 기능명 | 비고 및 상세 내용 |
 |---|---|---|---|---|
 | 1 | BigQuery | GA | **AI Functions** | TimesFM ➔ AI Functions의 `AI.FORECAST` 함수로 적용됨 |
-| 2 | BigQuery | Preview | **Zero-Shot Tabular FM** | - |
+| 2 | BigQuery | Preview | **Zero-Shot Tabular FM** | 지원예정 |
 | 3 | BigQuery | GA | **ObjectRef** | - |
 | 4 | BigQuery | GA | **Python UDFs** | - |
 | 5 | BigQuery | Preview | **Knowledge Graph** | - |
